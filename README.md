@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RayAUS, a Computer Science student at Monash University
-- 👀 I’m interested in Computer Games, Computer Science, Algorithms and clearly Coding
+- 👀 I’m interested in Computer Games, Computer Science, Algorithms and clearly Coding 🙂
 - 📫 How to reach me - [Linked-In][l]
 
 [l]: https://www.linkedin.com/raymond-dsouza
