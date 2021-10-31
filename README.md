@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"> I'm a Raymond D'Souza I major in Advanced Computer Science, I'm a fast learner and have lots of experience working with a wide range of people. </div>  
+### <div align="center"> I'm a Raymond D'Souza from Melbourne, Victoria. I major in Advanced Computer Science and a fast learner with lots of experience. </div>  
 <div align="center"> - 👀 I’m interested in Computer Games, Computer Science, Algorithms and clearly Coding 🙂</div>  
 <div align="center"> - 🔭 I’m currently working on [10-Man-Discord-Bot](https://github.com/RayAUS/10-Man-Ranked-Bot) </div>  
   
