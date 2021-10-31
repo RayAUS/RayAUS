@@ -5,7 +5,7 @@
 
 ### <div align="center"> I'm a Raymond D'Souza from Melbourne, Victoria.<br> I specialise in Advanced Computer Science and a fast learner with lots of experience. </div>  
 <div align="center"> - 👀 I’m interested in Computer Games, Computer Science, Algorithms and clearly Coding 🙂</div>  
-<div align="center"> - 🔭 I’m currently working on [10-Man-Discord-Bot](https://github.com/RayAUS/10-Man-Ranked-Bot) </div>  
+<div align="center"> - 🔭 I’m currently working on <a href="https://github.com/RayAUS/10-Man-Ranked-Bot">10-Man-Discord-Bot</a></div>  
   
 
 <br/>  
