@@ -7,7 +7,7 @@
 <div align="center"> - 👀 I’m interested in Computer Games, Computer Science, Algorithms and clearly Coding 🙂</div>  
 <div align="center"> - 🔭 I’m currently working on (haven't started) <a href="https://github.com/RayAUS/10-Man-Ranked-Bot">10-Man-Discord-Bot</a></div>  
 
-<div align="center"> - 🔭 I’m currently completed <a href="https://github.com/RayAUS/Space-Invaders">Space Invaders (Using node.js and react)</a></div>  
+<div align="center"> - Completed Projects <a href="https://github.com/RayAUS/Space-Invaders">Space Invaders ✔️ (Using node.js and react)</a></div>  
 
 <br/>  
 
