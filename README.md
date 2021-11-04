@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center"> I'm a Raymond D'Souza from Melbourne, Victoria.<br> I specialise in Advanced Computer Science and a fast learner with lots of experience. </div>  
+### <div align="center"> I'm a Raymond D'Souza from Melbourne, Victoria.<br> I specialise in Advanced Computer Science and am a fast learner with lots of experience. </div>  
 <div align="center"> - 👀 I’m interested in Computer Games, Computer Science, Algorithms and clearly Coding 🙂</div>  
 
-<div align="center"> Projects: <br><a href="https://github.com/RayAUS/Space-Invaders">Space Invaders  (Using node.js and react) ✔️</a><br><a href="https://github.com/RayAUS/Weather-Discord-Bot">Weather Discord Bot ✔️</a></div>  
+<div align="center"> Projects: <br><a href="https://github.com/RayAUS/Space-Invaders">Space Invaders  (Using node.js and react) ✔️</a><br><a href="https://github.com/RayAUS/Weather-Discord-Bot">Weather Discord Bot(using axios and express to keep it 24/7) ✔️</a></div>  
 
 <br/>  
 
