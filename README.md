@@ -17,19 +17,14 @@
 
 ## Projects
 <table align="center"><tr><td valign="top">
-    Project Name
-  </td>
-  <td>
-    Project Status
-  </td>
-  <td>
-    Project Language
-  </td>
-  <td>
-    Project Packages
-  </td>
-  </tr>
-  </tr><td valign="top">
+  <u><b>Project Name</b></u>
+  </td><td>
+  <b><u>Project Status</b></u>
+  </td><td>
+  <b><u>Project Language</b></u>
+  </td><td>
+  <b><u>Project Packages</b></u>
+  </td></tr></tr><td valign="top">
     <a href="https://github.com/RayAUS/Weather-Discord-Bot">Weather Discord Bot(24/7)
   </td><td valign="top">
     DONE ✔️
@@ -44,7 +39,7 @@
   </td>
   </tr>
 <tr><td>
-    <a href="https://github.com/RayAUS/Space-Invaders">Space Invaders</a>
+    <a href="https://github.com/RayAUS/Space-Invaders">Space-Invaders Game</a>
     </td><td valign="top">
     DONE ✔️
   </td><td valign="top">
@@ -53,6 +48,25 @@
     Node.js |
     React
   </td>
+</td></tr>
+<tr><td>
+    Snake Game
+    </td><td valign="top">
+    IN-PROGRESS
+  </td><td valign="top">
+    Python
+  </td><td valign="top">
+    PyGame
+  </td></tr>
+<tr><td>
+    10 Man Discord Bot
+    </td><td valign="top">
+    PLANNING
+  </td><td valign="top">
+    Python
+  </td><td valign="top">
+    Discord.py
+  </td></tr>
 </td></tr></table>  
 <br>  
 
