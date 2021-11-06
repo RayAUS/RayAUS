@@ -1,10 +1,19 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
+<br>
+<div align="center">
+<a href="https://www.hackerrank.com/raymond_dsouza1" target="_blank">
+<img src=https://img.shields.io/badge/-HackerRank-000000?style=for-the-badge&logo=hackerrank alt=HackerRank style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/raymond-dsouza" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
   
 
 ### <div align="center"> I'm a Raymond D'Souza from Melbourne, Victoria.<br> I specialise in Advanced Computer Science and am a fast learner with lots of experience. </div>  
-<div align="center"> - 👀 I’m interested in Computer Games, Computer Science, Algorithms and clearly Coding 🙂</div>  
+<div align="center"> I’m interested in Computer Games, Computer Science, Algorithms and clearly Coding 🙂</div>  
 
 ## Projects
 <table align="center"><tr><td valign="top">
@@ -107,12 +116,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.hackerrank.com/raymond_dsouza1" target="_blank">
-<img src=https://img.shields.io/badge/-HackerRank-000000?style=for-the-badge&logo=hackerrank alt=HackerRank style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/raymond-dsouza" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  Raymond D'Souza - <a href = "mailto:raymond_dsouza1@hotmail.com">raymond_dsouza1@hotmail.com</a> <br><br>
+  <a href="https://www.hackerrank.com/raymond_dsouza1" target="_blank">
+  <img src=https://img.shields.io/badge/-HackerRank-000000?style=for-the-badge&logo=hackerrank alt=HackerRank style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/raymond-dsouza" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
 </div>  
   
 
