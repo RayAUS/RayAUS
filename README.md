@@ -6,11 +6,49 @@
 ### <div align="center"> I'm a Raymond D'Souza from Melbourne, Victoria.<br> I specialise in Advanced Computer Science and am a fast learner with lots of experience. </div>  
 <div align="center"> - 👀 I’m interested in Computer Games, Computer Science, Algorithms and clearly Coding 🙂</div>  
 
-<div align="center"> Projects: <br><a href="https://github.com/RayAUS/Space-Invaders">Space Invaders  (Using node.js and react) ✔️</a><br><a href="https://github.com/RayAUS/Weather-Discord-Bot">Weather Discord Bot(using axios and express to keep it 24/7) ✔️</a></div>  
+## Projects
+<table align="center"><tr><td valign="top">
+    Project Name
+  </td>
+  <td>
+    Project Status
+  </td>
+  <td>
+    Project Language
+  </td>
+  <td>
+    Project Packages
+  </td>
+  </tr>
+  </tr><td valign="top">
+    <a href="https://github.com/RayAUS/Weather-Discord-Bot">Weather Discord Bot(24/7)
+  </td><td valign="top">
+    DONE ✔️
+  </td><td valign="top">
+    TypeScript 
+  </td><td valign="top">
+    Discord.js |
+    Node.js |
+    Dotenv |
+    Axios |
+    Express
+  </td>
+  </tr>
+<tr><td>
+    <a href="https://github.com/RayAUS/Space-Invaders">Space Invaders</a>
+    </td><td valign="top">
+    DONE ✔️
+  </td><td valign="top">
+    TypeScript <br> HTML/CSS
+  </td><td valign="top">
+    Node.js |
+    React
+  </td>
+</td></tr></table>  
+<br>  
 
-<br/>  
 
-
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
