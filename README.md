@@ -31,10 +31,10 @@
   </td><td valign="top">
     TypeScript 
   </td><td valign="top">
-    Discord.js |
-    Node.js |
-    Dotenv |
-    Axios |
+    Discord.js <br>
+    Node.js <br>
+    Dotenv <br>
+    Axios <br>
     Express
   </td>
   </tr>
@@ -52,7 +52,7 @@
 <tr><td>
     Snake Game
     </td><td valign="top">
-    IN-PROGRESS
+    PLANNED
   </td><td valign="top">
     Python
   </td><td valign="top">
