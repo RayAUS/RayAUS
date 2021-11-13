@@ -12,7 +12,7 @@
 </div>  
   
 
-### <div align="center"> I'm a Raymond D'Souza from Melbourne, Victoria.<br> I specialise in Advanced Computer Science and am a fast learner with lots of experience. </div>  
+### <div align="center"> I'm Raymond D'Souza from Melbourne, Victoria.<br> I specialise in Advanced Computer Science and am a fast learner with lots of experience. </div>  
 <div align="center"> I’m interested in Computer Games, Computer Science, Algorithms and clearly Coding 🙂</div>  
 
 ## Projects
