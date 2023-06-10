@@ -12,7 +12,7 @@
 </div>  
   
 
-### <div align="center"> I'm Raymond D'Souza from Melbourne, Victoria.<br> I specialise in Advanced Computer Science and am a fast learner with lots of experience. </div>  
+### <div align="center"> I'm Raymond D'Souza a Software Engineer based in Melbourne, Australia</div>  
 <div align="center"> I’m interested in Computer Games, Computer Science, Algorithms and clearly Coding 🙂</div>  
 
 ## Projects
@@ -50,7 +50,7 @@
   </td>
 </td></tr>
 <tr><td>
-    Snake Game
+    Encoder and Decoder (ZIP implementation)
     </td><td valign="top">
     PLANNED
   </td><td valign="top">
@@ -59,15 +59,27 @@
     PyGame
   </td></tr>
 <tr><td>
-    10 Man Discord Bot
+    MPI Logging System (Parallel and Distributed Systems)
     </td><td valign="top">
-    PLANNING
+    PLANNED
+  </td><td valign="top">
+    C
+  </td><td valign="top">
+    MPI | OpenMP | POSIX
+  </td></tr>
+</td></tr>
+<tr><td>
+    Ukkonens Algorithm (Linear time Suffix Tree)
+    </td><td valign="top">
+    PLANNED
   </td><td valign="top">
     Python
   </td><td valign="top">
-    Discord.py
+    MPI | OpenMP | POSIX
   </td></tr>
-</td></tr></table>  
+</td></tr>
+
+</table>  
 <br>  
 
 
